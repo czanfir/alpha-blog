@@ -11,3 +11,5 @@ Blog like application
 
 HEROKU link:
 https://roralphablogz.herokuapp.com/
+
+*** This app was built with the intention of helping others to learn. Devise and other gems were not used on purpose" ***
