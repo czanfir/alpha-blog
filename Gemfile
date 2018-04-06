@@ -38,6 +38,7 @@ group :development, :test do
   gem 'byebug'
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
+  gem 'pry-byebug'
 end
 
 group :development do
@@ -53,3 +54,4 @@ group :production do
   gem 'rails_12factor'
 end
 
+ruby "2.3.4"
